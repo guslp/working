@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ECAMarket</string>
+
+    <!-- Page d'accueil-->
+    <string name="home_page_title">Nouveautés</string>
+    <string name="home_page_last_offer_section">Dernieres Annonces</string>
+    <string name="home_page_offer_name"> Nom de l\'Annonce </string>
+    <string name="home_page_offer_description">Description de l\'Ann once</string>
+
+    <!-- Page mes offres-->
+    <string name="collection_page_title">Mes Annonces</string>
+
+    <!-- Page ajout d'annonces -->
+    <string name="add_offer_page_title"> Ajout d\'une Annonce</string>
+    <string name="add_offer_page_upload_button">Charger une Image</string>
+    <string name="add_offer_page_name_imput">@string/item_offer_name</string>
+    <string name="add_offer_page_description_input">@string/item_offer_description</string>
+    <string name="add_offer_page_price_imput">Prix de vente</string>
+
+    <string name="add_offer_page_confirm_button">confirmer</string>
+
+    <!-- Fenetre pop-up de détail -->
+    <string name="popup_offer_name"> Nom de l\'Annonce</string>
+    <string name="popup_offer_descrition_title"> Description de l\'Annonce</string>
+    <string name="popup_offer_descrition_subtitle"> Description de l\'Annonce</string>
+    <string name="popup_offer_price"> Prix de l\'Annonce</string>
+
+    <!-- Page customise-->
+    <string name="item_offer_name">Nom de l\'Annonce</string>
+    <string name="item_offer_description">description de l\'Annonce</string>
+
+</resources>
